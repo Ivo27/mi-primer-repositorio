@@ -1,0 +1,1 @@
+Mi expectativa de la materia es el de obtener una firme base sobre el desarrollo de aplicaciones completas utilizando Python.
